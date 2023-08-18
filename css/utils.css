@@ -1,0 +1,24 @@
+.mx-width{
+width: 100%;
+}
+.mx-width-2{
+    width: 50%;
+}
+.m-auto{
+    margin: 0 auto;
+}
+.hoverEffect:hover{
+    color: #2156FA;
+}
+.fontSize{
+    font-size: 20px;
+}
+.spanColor{
+    color: blue;
+}
+.ONline_store button{
+    background-color: blue;
+}
+.ONline_store button a{
+    color: white;
+}

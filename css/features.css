@@ -1,0 +1,283 @@
+.featureWrapper{
+    width:  100%;
+    height: 1300px;
+}
+.goingProfessional{
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.goingprofessionalLeft{
+    width: 50%;
+    height: inherit;
+}
+.goingprofessionalLeft h1{
+    font-family: 'anton';
+    font-size: 60px;
+    margin: 0px 30px;
+}
+.professionalbutton{
+    width: inherit;    
+}
+.professionalbutton button{
+    width: 50%;
+    height: 50px;
+    margin: 50px 30px;
+    border: none;
+    background-color: blue;
+}
+.professionalbutton button a{
+    color: white;
+}
+.websiteAndOnline-store{
+    width: 50%;
+    height: 50px;
+    display: flex;
+    margin: -10px 50px;
+    justify-content: center;
+    align-items: center;
+}
+.WEBSITE{
+    width: 49.2%;
+    height: inherit;
+    z-index: 1;
+    border: none;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px gray, 1px 1px 1px 1px gray;
+}
+.ONline_store{
+    width: 49.2%;
+    height: inherit;
+    z-index: 1;
+    border: none;
+    /* background-color: #EFEFEF; */
+    margin-left: -4px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px gray, 1px 1px 1px 1px gray;
+}
+.goingprofessionalRight{
+    width: 50%;
+}
+.goingprofessionalRight img{
+    width: 100%;
+    height: 600px;
+}
+.featurescontent{
+    width: 100%;
+    /* height: 1300px; */
+    color: white;
+}
+.buildtrustAndSearch{
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.search_bar{
+    width: 50%;
+    height: 500px;
+}
+.search_bar img{
+    width: 70%;
+    height: 250px;
+    margin: 80px 200px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.1),0 0 10px 0 rgba(0,0,0,0.1);
+}
+.buildTrust{
+    width: 50%;
+    height: 500px;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+.buildtrustHeadingAndParagraph{
+        width: 67%;
+        height: 200px;
+        justify-content: center;
+        align-items: center;
+        margin: 150px 50px;
+        line-height: 1.2;
+        color: black;
+}
+.buildtrustbutton{
+    width: 35%;
+    height: 50px;
+    border: 1px solid blue;
+    background-color: white;
+    margin: 40px 50px;
+    cursor: pointer;
+}
+.buildtrustbutton a{
+    color: blue;    
+}
+.morePagesMoreImpact{
+    width: 100%;
+    height: 500px;
+}
+.morepagesAndSearch{
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.morepages{
+    width: 40%;
+    height: 300px;
+    margin: 0 200px;
+    flex-direction: column;
+    justify-content: center;  
+}
+.morePagesHeadingAndParagraph{
+    width: 100%;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    margin: 150px 0px;
+    line-height: 1.2;
+    color: black;
+}
+.morePagesbutton{
+    width: 35%;
+    height: 50px;
+    border: 1px solid blue;
+    background-color: white;
+    margin: 40px 50px;
+    cursor: pointer;
+}
+.morePagesbutton a{
+    color: blue;
+}
+.searchWithCursor{
+    width: 50%;
+    height: 500px; 
+}
+.searchWithCursor img{
+    width: 80%;
+    height: 250px;
+    margin: 80px 40px; 
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.1),0 0 10px 0 rgba(0,0,0,0.1);
+
+}
+.spectrum{
+    width: 100%;
+    height: 700px;
+    background-image: url("../images/13.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fortunately{
+    flex-direction: column;
+    width: 40%;
+    float: right;
+    padding-top: 530px;
+    font-size: x-large;
+    color: #EFEFEF;
+}
+.Birgit{
+    width: 60%;
+    float: right;
+    color: #EFEFEF;
+    margin-right: 230px;
+}
+.whyJimdoAndImages{
+    width: 100%;
+    height: 700px;
+    display: flex;
+}
+.whyJimdo{
+    width: 50%;
+    height: 700px;
+    color: black;
+}
+.jimdoHeadingAndImages{
+    width: 80%;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    margin: 250px 80px;
+    line-height: 1.2;
+    color: black;
+}
+.jimdobutton{
+    width: 35%;
+    height: 50px;
+    border: 1px solid blue;
+    background-color: blue;
+    margin: 40px 50px;
+    cursor: pointer;  
+}
+.jimdobutton a{
+    color: #EFEFEF;
+}
+.jimdoImages{
+    width: 50%;
+    height: 700px;
+    display: flex;
+}
+.firsttwoimages{
+    width: 30%;
+    height: 400px;
+    display: flex;
+    margin-right: 10px;
+    margin-top: 160px;
+    flex-direction: column;
+}
+.secondtwoimages{
+    width: 30%;
+    height: 600px;
+    display: flex;
+    margin-right: 30px;
+    margin-top: 40px;
+    flex-direction: column;  
+}
+.thirdtwoimages{
+    width: 30%;
+    height: 500px;
+    display: flex;
+    margin-right: 30px;
+    margin-top: 100px;
+    flex-direction: column;  
+}
+.firsttwoimages img {
+    width: 80%;
+    height: 200px;
+    margin:10px 50px;
+    flex-direction: column; 
+}
+.secondtwoimages img{
+    width: 80%;
+    height: 590px;
+    margin:10px 50px;
+    flex-direction: column;  
+}
+.thirdtwoimages img{
+    width: 80%;
+    height: 300px;
+    margin:10px;
+    flex-direction: column;
+}
+.readyToGoProfessional{
+    width: 100%;
+    height: 300px;
+    background-color: #010334;
+}
+.readyToGoProfessional h1{
+    width: 25%;
+    margin: 30px auto;
+    padding-top: 30px;
+    font-size: 45px;
+}
+.readyToGoProfessionalparagraph{
+    width: 25%;
+    margin-left:620px ;
+}
+.readyToGoProfessionalbuttonn{
+    width: 16%;
+    height: 50px;
+    border: 1px solid blue;
+    background-color: blue;
+    margin: 40px 600px;
+    cursor: pointer; 
+}
+.readyToGoProfessionalbutton a{
+color: #EFEFEF;
+}
